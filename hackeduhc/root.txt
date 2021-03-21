@@ -1,0 +1,13 @@
+HACKED UHC
+
+─────█─▄▀█──█▀▄─█───── 
+────▐▌──────────▐▌──── 
+────█▌▀▄──▄▄──▄▀▐█──── 
+───▐██──▀▀──▀▀──██▌─── 
+──▄████▄──▐▌──▄████▄──
+
+flag = uhc{C4p_sYs_br41nF@#k_buT_v3ry_n1c3}
+by: big0us 
+thanks -> luska
+I hope you had fun s2
+remove your exploit!
