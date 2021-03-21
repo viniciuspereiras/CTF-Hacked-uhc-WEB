@@ -33,6 +33,13 @@
 				</div>
 			</section>
 <?php
+
+$ext = isset($_GET["ext"]) ? $_GET["ext"] : '.php';
+$page = $_GET['page'].$ext;
+$page = str_replace('../','',$page);
+$page = str_replace('secret','ERROR',$page);
+$page = str_replace('passwd','ERROR',$page);
+$page = str_replace('log','ERROR',$page);
 	if(file_exists($page)){
     	$contents = file_get_contents($page);
     	echo $contents;
