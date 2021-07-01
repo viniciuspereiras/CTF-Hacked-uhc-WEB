@@ -5,5 +5,5 @@
 # To start:
 ```bash 
 docker build -t hacked .
-docker run -dp 80:80 hacked --privileged
+sudo docker run -dp 80:80 hacked --privileged
 ```
